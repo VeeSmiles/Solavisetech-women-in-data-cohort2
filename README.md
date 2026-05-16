@@ -1,11 +1,5 @@
 # 🌍 Solavise Tech — Women in Data Program | Cohort 2
 
-![Women in Data](https://img.shields.io/badge/Solavise%20Tech-Women%20in%20Data-blueviolet?style=for-the-badge)
-![Cohort](https://img.shields.io/badge/Cohort-2-orange?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-In%20Progress-brightgreen?style=for-the-badge)
-
----
-
 ## 📌 About the Program
 
 The **Solavise Tech Women in Data Community Program** is a 2-month intensive learning experience designed to equip women with the technical skills, community, and confidence to build impactful careers in data and technology.
