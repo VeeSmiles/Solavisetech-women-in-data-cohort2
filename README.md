@@ -1,4 +1,4 @@
-# 🌍 Solavise Tech — Women in Data Program | Cohort 2
+# Solavise Tech — Women in Data Program | Cohort 2
 
 ## 📌 About the Program
 
