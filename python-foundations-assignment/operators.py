@@ -1,16 +1,14 @@
 import math
 
 # Exercise 1: Simple Calculator
-print("=" * 55)
-print("             SIMPLE CALCULATOR")
-print("=" * 55)
+print("SIMPLE CALCULATOR")
 
-num1 = float(input("  Enter first number  : "))
-num2 = float(input("  Enter second number : "))
+num1 = float(input("Enter first number : "))
+num2 = float(input("Enter second number : "))
 
-print(f"\n  {num1} + {num2}  =  {num1 + num2}")
-print(f"  {num1} - {num2}  =  {num1 - num2}")
-print(f"  {num1} × {num2}  =  {num1 * num2}")
+print(f"{num1} + {num2}  =  {num1 + num2}")
+print(f"{num1} - {num2}  =  {num1 - num2}")
+print(f"{num1} × {num2}  =  {num1 * num2}")
 
 if num2 != 0:
     print(f"  {num1} ÷ {num2}  =  {num1 / num2:.4f}")
@@ -19,18 +17,16 @@ else:
 print()
 
 # Exercise 2: Area of Shapes
-print("=" * 55)
-print("              AREA OF SHAPES")
-print("=" * 55)
+print("AREA OF SHAPES")
 
 # Circle
-radius = float(input("  Circle  – enter radius         : "))
+radius = float(input("  Circle  – enter radius : "))
 circle_area = math.pi * radius ** 2
 print(f"  Area of circle    = {circle_area:.4f} sq units")
 
 # Rectangle
-length = float(input("  Rectangle – enter length        : "))
-width  = float(input("  Rectangle – enter width         : "))
+length = float(input("  Rectangle – enter length : "))
+width  = float(input("  Rectangle – enter width : "))
 rect_area = length * width
 print(f"  Area of rectangle = {rect_area:.4f} sq units")
 
@@ -42,10 +38,7 @@ print(f"  Area of triangle  = {tri_area:.4f} sq units")
 print()
 
 # Exercise 3: Even or Odd
-print("=" * 55)
-print("               EVEN OR ODD")
-print("=" * 55)
-
+print("EVEN OR ODD")
 number = int(input("  Enter a whole number : "))
 
 if number % 2 == 0:
@@ -55,9 +48,7 @@ else:
 print()
 
 # Exercise 4: Student Grade Percentage
-print("=" * 55)
 print("         STUDENT GRADE PERCENTAGE")
-print("=" * 55)
 
 marks_obtained = float(input("  Enter marks obtained : "))
 total_marks    = float(input("  Enter total marks    : "))

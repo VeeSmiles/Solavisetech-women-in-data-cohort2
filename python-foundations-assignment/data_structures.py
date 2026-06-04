@@ -22,9 +22,7 @@ print(f"  Total tools      : {len(tools)}")
 print()
 
 # Exercise 2: Student Scores
-print("=" * 55)
-print("             STUDENT SCORES 📊")
-print("=" * 55)
+print("STUDENT SCORES")
 
 scores = [78, 92, 65, 88, 73, 95, 61, 84, 70, 90]
 print(f"  Scores   : {scores}")

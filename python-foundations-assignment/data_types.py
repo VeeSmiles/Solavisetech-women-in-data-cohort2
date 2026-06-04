@@ -1,7 +1,3 @@
-# SECTION 1: DATA TYPES EXERCISES
-# Author: Vivian Ndung'u
-# Program: Solavise Tech Women in Data – Cohort 2
-
 # Exercise 1: Personal Bio Generator
 name = "Vivian Ndung'u"
 age = 22
@@ -9,9 +5,7 @@ height = 1.67          # in metres
 favorite_tech_field = "Data Analytics & Cybersecurity"
 is_student = True
 
-print("=" * 55)
-print("           PERSONAL BIO GENERATOR")
-print("=" * 55)
+print("PERSONAL BIO GENERATOR")
 print(f"Hi! My name is {name}.")
 print(f"I am {age} years old and {height}m tall.")
 print(f"My favourite tech field is {favorite_tech_field}.")
